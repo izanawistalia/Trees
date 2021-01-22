@@ -1,5 +1,5 @@
 <h1 align="center">Trees</h1>
-
+<div align="center">
 The file contains beginner tree algorithms.<br>
 Following are the algorithms included:<br>
   
@@ -13,4 +13,4 @@ Following are the algorithms included:<br>
 <p>contains code for finding the height of the tree.</p>
 </ul>
 ```
-
+</div>
