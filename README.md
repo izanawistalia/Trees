@@ -2,8 +2,6 @@
 <div align="center">
 The file contains beginner tree algorithms.<br>
 Following are the algorithms included:<br>
-  
-```
 <ul>
 <li>tree.py</li>
 <p>contains code for rooting the Binary Search Tree.</p>
@@ -12,5 +10,4 @@ Following are the algorithms included:<br>
 <li>treeHeight.py</li>
 <p>contains code for finding the height of the tree.</p>
 </ul>
-```
 </div>
