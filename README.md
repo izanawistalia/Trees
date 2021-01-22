@@ -1,5 +1,4 @@
-# Trees
-<h1 align="center">Tree</h1>
+<h1 align="center">Trees</h1>
 <div align="center">
 The file contains beginner tree algorithms.<br>
 Following are the algorithms included:<br>
